@@ -1,0 +1,80 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    border:0;
+}
+
+.background-img{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.3;
+}
+
+.top-area{
+    font-weight: bold;
+    color: black;
+}
+
+.logo{
+    height: 5%;
+    width:5%;
+    margin-left: 2rem;
+}
+
+.title{
+    font-size:2rem;
+    position: relative;
+    bottom: 3rem;
+}
+
+.slogan{
+    position: relative;
+    bottom: 1.7rem;
+    right: 16rem;
+    font-size: 1rem;
+}
+
+.navbar{
+    font-size:1.5rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+    background-color: black;
+}
+
+.nav-items{
+    position: relative;
+    left: 7.7rem;
+    margin-right: 4rem;
+    text-decoration: none;
+    color: white;
+}
+
+.bottom-area{
+    margin-top: 7.5rem;
+    height: 70%;
+    width: 100%;
+    font-weight: lighter;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.content{
+    text-align: center;
+}
+
+.donate-note{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.content-items{
+    font-size:1.2rem;
+}
+
+
+
+
+
